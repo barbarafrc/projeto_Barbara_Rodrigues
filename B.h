@@ -14,6 +14,7 @@ public:
     void setB2(float value);
     void MB1();
     void MB2();
+    void MB3();
 };
 
 #endif

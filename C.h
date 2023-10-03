@@ -16,6 +16,7 @@ public:
     void setC2(int value);
     void MC1();
     void MC2();
+    void MC3();
 };
 
 #endif
