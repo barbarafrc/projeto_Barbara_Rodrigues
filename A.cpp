@@ -26,3 +26,7 @@ void A::MA1() {
 void A::MA2() {
     std::cout << "Método MA2() chamado." << std::endl;
 }
+
+void A::MA3() {
+    std::cout << "Alteração na classe A a partir do clone." << std::endl;
+}
