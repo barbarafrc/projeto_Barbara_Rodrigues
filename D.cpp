@@ -10,3 +10,7 @@ void D::MD1() {
 void D::MD2() {
     std::cout << "Método MD2() chamado." << std::endl;
 }
+
+void D::MD4() {
+    std::cout << "Método MD4() chamado." << std::endl;
+}

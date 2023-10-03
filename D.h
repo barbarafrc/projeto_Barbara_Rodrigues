@@ -11,6 +11,7 @@ public:
     D();
     void MD1();
     void MD2();
+    void MD4();
 };
 
 #endif
