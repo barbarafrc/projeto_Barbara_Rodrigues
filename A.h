@@ -15,5 +15,6 @@ public:
     void MA1();
     void MA2();
     void MA3();
+    int getSoma(int a, int b);
 };
 #endif

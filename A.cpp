@@ -30,3 +30,7 @@ void A::MA2() {
 void A::MA3() {
     std::cout << "Alteração na classe A a partir do clone." << std::endl;
 }
+
+int A::getSoma(int a, int b) {
+    return a + b;
+}
